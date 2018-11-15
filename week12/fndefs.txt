@@ -1,0 +1,6 @@
+def testfn3(x):
+    print(212)
+    if 2>1:
+        return x
+def testfn(x):
+    return x
